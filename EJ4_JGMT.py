@@ -1,4 +1,4 @@
-# Jonathan Gabriel Morales Torres
+# Jonathan Gabriel Morales Torres 10
 # Operadores Lógicos
 
 descuento_activado = False
